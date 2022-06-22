@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\Desktop\\Lp3\\LabManager\\LabManager.csproj": {}
+    "C:\\Users\\IFSP\\Desktop\\Sp3045064\\LabManager2\\LabManager-main\\LabManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\Desktop\\Lp3\\LabManager\\LabManager.csproj": {
+    "C:\\Users\\IFSP\\Desktop\\Sp3045064\\LabManager2\\LabManager-main\\LabManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\Lp3\\LabManager\\LabManager.csproj",
+        "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\Sp3045064\\LabManager2\\LabManager-main\\LabManager.csproj",
         "projectName": "LabManager",
-        "projectPath": "C:\\Users\\IFSP\\Desktop\\Lp3\\LabManager\\LabManager.csproj",
+        "projectPath": "C:\\Users\\IFSP\\Desktop\\Sp3045064\\LabManager2\\LabManager-main\\LabManager.csproj",
         "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\Desktop\\Lp3\\LabManager\\obj\\",
+        "outputPath": "C:\\Users\\IFSP\\Desktop\\Sp3045064\\LabManager2\\LabManager-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -72,7 +72,7 @@ using LabManager.Models;
                 computerRepository.Update(computer);
             }
         }
-    if (modelName == "Lab")
+        if (modelName == "Lab")
      {
         var labRepository = new LabRepository(databaseConfig);
 
